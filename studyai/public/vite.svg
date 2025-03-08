@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#3B82F6"/>
+  <text x="50%" y="40%" text-anchor="middle" font-size="48" font-weight="bold" fill="#FFFFFF">Study</text>
+  <text x="50%" y="60%" text-anchor="middle" font-size="48" font-weight="bold" fill="#FFFFFF">AI</text>
+  <path d="M40,140 C40,120 60,120 60,140 L60,160 C60,180 80,180 80,160 L80,140 C80,120 100,120 100,140 L100,160" stroke="#FFFFFF" stroke-width="12" fill="none"/>
+  <circle cx="100" cy="160" r="8" fill="#FFFFFF"/>
+</svg>

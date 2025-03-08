@@ -1,0 +1,133 @@
+{
+    "common": {
+      "loading": "Cargando...",
+      "error": "Error",
+      "success": "Éxito",
+      "close": "Cerrar",
+      "delete": "Eliminar",
+      "cancel": "Cancelar",
+      "submit": "Enviar",
+      "next": "Siguiente",
+      "previous": "Anterior",
+      "upload": "Subir",
+      "generate": "Generar",
+      "view": "Ver",
+      "query": "Consultar"
+    },
+    "auth": {
+      "title": "StudyAI",
+      "subtitle": "Tu Asistente Personal de Aprendizaje",
+      "login": "Iniciar Sesión",
+      "register": "Registrarse",
+      "username": "Usuario",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "loginButton": "Iniciar Sesión",
+      "registerButton": "Crear Cuenta",
+      "pleaseWait": "Por favor espere...",
+      "loginSuccess": "Inicio de sesión exitoso",
+      "registerSuccess": "Registro exitoso",
+      "passwordMismatch": "Las contraseñas no coinciden",
+      "loginError": "Error al iniciar sesión",
+      "registerError": "Error al registrarse",
+      "networkError": "Error de red"
+    },
+    "sidebar": {
+      "dashboard": "Panel Principal",
+      "documents": "Documentos",
+      "quizzes": "Cuestionarios",
+      "logout": "Cerrar Sesión"
+    },
+    "dashboard": {
+      "title": "Panel Principal",
+      "stats": {
+        "totalDocuments": "Total de Documentos",
+        "completedQuizzes": "Cuestionarios Completados",
+        "averageScore": "Puntuación Media"
+      },
+      "charts": {
+        "quizPerformance": "Rendimiento en Cuestionarios",
+        "documentProgress": "Progreso de Documentos",
+        "score": "Puntuación (%)",
+        "progress": "Progreso (%)"
+      },
+      "recentDocuments": "Documentos Recientes",
+      "recentQuizzes": "Cuestionarios Recientes",
+      "activityFeed": "Actividad Reciente",
+      "noDocuments": "No hay documentos subidos aún",
+      "noQuizzes": "No hay cuestionarios intentados aún",
+      "uploaded": "Subido",
+      "score": "Puntuación"
+    },
+    "documents": {
+      "title": "Documentos",
+      "uploadDocument": "Subir Documento",
+      "noDocuments": "No hay documentos subidos. Sube un documento para comenzar.",
+      "generateQuiz": "Generar Cuestionario",
+      "viewAndQuery": "Ver y Consultar",
+      "uploadedAt": "Subido el",
+      "deleteConfirm": "¿Estás seguro de que quieres eliminar este documento?",
+      "deleteSuccess": "Documento eliminado con éxito",
+      "deleteError": "Error al eliminar el documento",
+      "uploadError": "Error al subir el documento",
+      "queryDocument": "Consultar Documento",
+      "askQuestion": "Haz una pregunta sobre el documento...",
+      "queryPlaceholder": "Escribe tu pregunta aquí...",
+      "processingQuery": "Procesando tu pregunta...",
+      "noAnswer": "No se pudo encontrar una respuesta en el documento",
+      "queryError": "Error al procesar tu pregunta"
+    },
+    "quizzes": {
+      "title": "Cuestionarios",
+      "noQuizzes": "No hay cuestionarios disponibles. Genera un cuestionario desde tus documentos.",
+      "startQuiz": "Comenzar Cuestionario",
+      "reviewQuiz": "Revisar Cuestionario",
+      "generateQuiz": "Generar Cuestionario",
+      "quizComplete": "¡Cuestionario Completado!",
+      "yourScore": "Tu Puntuación",
+      "question": "Pregunta",
+      "correctAnswer": "Respuesta Correcta",
+      "yourAnswer": "Tu Respuesta",
+      "explanation": "Explicación",
+      "submitQuiz": "Enviar Cuestionario",
+      "deleteConfirm": "¿Estás seguro de que quieres eliminar este cuestionario?",
+      "deleteSuccess": "Cuestionario eliminado con éxito",
+      "deleteError": "Error al eliminar el cuestionario",
+      "generationError": "Error al generar el cuestionario",
+      "submissionError": "Error al enviar el cuestionario",
+      "timeRemaining": "Tiempo Restante",
+      "questionCount": "Pregunta {{current}} de {{total}}",
+      "quizInProgress": "Cuestionario en Progreso",
+      "confirmSubmit": "¿Estás seguro de que quieres enviar el cuestionario?",
+      "notAttempted": "No intentado"
+    },
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "page": "Página",
+      "showing": "Mostrando {{start}} a {{end}} de {{total}} entradas",
+      "noResults": "No se encontraron resultados"
+    },
+    "errors": {
+      "generalError": "Ha ocurrido un error",
+      "networkError": "Error de red",
+      "unauthorized": "Acceso no autorizado",
+      "sessionExpired": "Sesión expirada",
+      "invalidInput": "Entrada inválida",
+      "fileTypeError": "Tipo de archivo inválido",
+      "fileSizeError": "El tamaño del archivo excede el límite",
+      "uploadError": "Error al subir el archivo",
+      "downloadError": "Error al descargar el archivo",
+      "deleteError": "Error al eliminar el elemento",
+      "queryError": "Error al procesar la consulta",
+      "timeoutError": "Tiempo de espera agotado"
+    },
+    "dates": {
+      "today": "Hoy",
+      "yesterday": "Ayer",
+      "daysAgo": "hace {{days}} días",
+      "justNow": "Ahora mismo",
+      "minutesAgo": "hace {{minutes}} minutos",
+      "hoursAgo": "hace {{hours}} horas"
+    }
+  }

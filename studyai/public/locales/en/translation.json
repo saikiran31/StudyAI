@@ -1,0 +1,133 @@
+{
+    "common": {
+      "loading": "Loading...",
+      "error": "Error",
+      "success": "Success",
+      "close": "Close",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "next": "Next",
+      "previous": "Previous",
+      "upload": "Upload",
+      "generate": "Generate",
+      "view": "View",
+      "query": "Query"
+    },
+    "auth": {
+      "title": "StudyAI",
+      "subtitle": "Your Personal Learning Assistant",
+      "login": "Login",
+      "register": "Register",
+      "username": "Username",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "loginButton": "Login",
+      "registerButton": "Create Account",
+      "pleaseWait": "Please wait...",
+      "loginSuccess": "Login successful",
+      "registerSuccess": "Registration successful",
+      "passwordMismatch": "Passwords do not match",
+      "loginError": "Login failed",
+      "registerError": "Registration failed",
+      "networkError": "Network error occurred"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "documents": "Documents",
+      "quizzes": "Quizzes",
+      "logout": "Logout"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "stats": {
+        "totalDocuments": "Total Documents",
+        "completedQuizzes": "Completed Quizzes",
+        "averageScore": "Average Score"
+      },
+      "charts": {
+        "quizPerformance": "Quiz Performance",
+        "documentProgress": "Document Progress",
+        "score": "Score (%)",
+        "progress": "Progress (%)"
+      },
+      "recentDocuments": "Recent Documents",
+      "recentQuizzes": "Recent Quizzes",
+      "activityFeed": "Activity Feed",
+      "noDocuments": "No documents uploaded yet",
+      "noQuizzes": "No quizzes attempted yet",
+      "uploaded": "Uploaded",
+      "score": "Score"
+    },
+    "documents": {
+      "title": "Documents",
+      "uploadDocument": "Upload Document",
+      "noDocuments": "No documents uploaded yet. Upload a document to get started.",
+      "generateQuiz": "Generate Quiz",
+      "viewAndQuery": "View & Query",
+      "uploadedAt": "Uploaded",
+      "deleteConfirm": "Are you sure you want to delete this document?",
+      "deleteSuccess": "Document deleted successfully",
+      "deleteError": "Failed to delete document",
+      "uploadError": "Failed to upload document",
+      "queryDocument": "Query Document",
+      "askQuestion": "Ask a question about the document...",
+      "queryPlaceholder": "Type your question here...",
+      "processingQuery": "Processing your question...",
+      "noAnswer": "Could not find an answer in the document",
+      "queryError": "Failed to process your question"
+    },
+    "quizzes": {
+      "title": "Quizzes",
+      "noQuizzes": "No quizzes available. Generate a quiz from your documents.",
+      "startQuiz": "Start Quiz",
+      "reviewQuiz": "Review Quiz",
+      "generateQuiz": "Generate Quiz",
+      "quizComplete": "Quiz Complete!",
+      "yourScore": "Your Score",
+      "question": "Question",
+      "correctAnswer": "Correct Answer",
+      "yourAnswer": "Your Answer",
+      "explanation": "Explanation",
+      "submitQuiz": "Submit Quiz",
+      "deleteConfirm": "Are you sure you want to delete this quiz?",
+      "deleteSuccess": "Quiz deleted successfully",
+      "deleteError": "Failed to delete quiz",
+      "generationError": "Failed to generate quiz",
+      "submissionError": "Failed to submit quiz",
+      "timeRemaining": "Time Remaining",
+      "questionCount": "Question {{current}} of {{total}}",
+      "quizInProgress": "Quiz in Progress",
+      "confirmSubmit": "Are you sure you want to submit the quiz?",
+      "notAttempted": "Not attempted"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page",
+      "showing": "Showing {{start}} to {{end}} of {{total}} entries",
+      "noResults": "No results found"
+    },
+    "errors": {
+      "generalError": "An error occurred",
+      "networkError": "Network error occurred",
+      "unauthorized": "Unauthorized access",
+      "sessionExpired": "Session expired",
+      "invalidInput": "Invalid input",
+      "fileTypeError": "Invalid file type",
+      "fileSizeError": "File size exceeds limit",
+      "uploadError": "Failed to upload file",
+      "downloadError": "Failed to download file",
+      "deleteError": "Failed to delete item",
+      "queryError": "Failed to process query",
+      "timeoutError": "Request timed out"
+    },
+    "dates": {
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "daysAgo": "{{days}} days ago",
+      "justNow": "Just now",
+      "minutesAgo": "{{minutes}} minutes ago",
+      "hoursAgo": "{{hours}} hours ago"
+    }
+  }

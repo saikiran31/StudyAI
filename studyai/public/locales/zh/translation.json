@@ -1,0 +1,133 @@
+{
+    "common": {
+      "loading": "加载中...",
+      "error": "错误",
+      "success": "成功",
+      "close": "关闭",
+      "delete": "删除",
+      "cancel": "取消",
+      "submit": "提交",
+      "next": "下一个",
+      "previous": "上一个",
+      "upload": "上传",
+      "generate": "生成",
+      "view": "查看",
+      "query": "查询"
+    },
+    "auth": {
+      "title": "学习助手",
+      "subtitle": "您的个人学习助手",
+      "login": "登录",
+      "register": "注册",
+      "username": "用户名",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "loginButton": "登录",
+      "registerButton": "创建账户",
+      "pleaseWait": "请稍候...",
+      "loginSuccess": "登录成功",
+      "registerSuccess": "注册成功",
+      "passwordMismatch": "密码不匹配",
+      "loginError": "登录失败",
+      "registerError": "注册失败",
+      "networkError": "网络错误"
+    },
+    "sidebar": {
+      "dashboard": "仪表板",
+      "documents": "文档",
+      "quizzes": "测验",
+      "logout": "退出"
+    },
+    "dashboard": {
+      "title": "仪表板",
+      "stats": {
+        "totalDocuments": "文档总数",
+        "completedQuizzes": "已完成测验",
+        "averageScore": "平均分数"
+      },
+      "charts": {
+        "quizPerformance": "测验表现",
+        "documentProgress": "文档进度",
+        "score": "分数 (%)",
+        "progress": "进度 (%)"
+      },
+      "recentDocuments": "最近文档",
+      "recentQuizzes": "最近测验",
+      "activityFeed": "活动记录",
+      "noDocuments": "尚未上传文档",
+      "noQuizzes": "尚未尝试任何测验",
+      "uploaded": "已上传",
+      "score": "分数"
+    },
+    "documents": {
+      "title": "文档",
+      "uploadDocument": "上传文档",
+      "noDocuments": "尚未上传文档。上传一个文档以开始。",
+      "generateQuiz": "生成测验",
+      "viewAndQuery": "查看和提问",
+      "uploadedAt": "上传于",
+      "deleteConfirm": "确定要删除此文档吗？",
+      "deleteSuccess": "文档删除成功",
+      "deleteError": "删除文档失败",
+      "uploadError": "上传文档失败",
+      "queryDocument": "文档提问",
+      "askQuestion": "对文档提出问题...",
+      "queryPlaceholder": "在此输入您的问题...",
+      "processingQuery": "正在处理您的问题...",
+      "noAnswer": "在文档中未找到答案",
+      "queryError": "处理问题失败"
+    },
+    "quizzes": {
+      "title": "测验",
+      "noQuizzes": "暂无可用测验。从您的文档生成测验。",
+      "startQuiz": "开始测验",
+      "reviewQuiz": "复习测验",
+      "generateQuiz": "生成测验",
+      "quizComplete": "测验完成！",
+      "yourScore": "您的分数",
+      "question": "问题",
+      "correctAnswer": "正确答案",
+      "yourAnswer": "您的答案",
+      "explanation": "解释",
+      "submitQuiz": "提交测验",
+      "deleteConfirm": "确定要删除此测验吗？",
+      "deleteSuccess": "测验删除成功",
+      "deleteError": "删除测验失败",
+      "generationError": "生成测验失败",
+      "submissionError": "提交测验失败",
+      "timeRemaining": "剩余时间",
+      "questionCount": "第 {{current}} 题，共 {{total}} 题",
+      "quizInProgress": "测验进行中",
+      "confirmSubmit": "确定要提交测验吗？",
+      "notAttempted": "未尝试"
+    },
+    "pagination": {
+      "previous": "上一页",
+      "next": "下一页",
+      "page": "页",
+      "showing": "显示 {{start}} 到 {{end}}，共 {{total}} 条",
+      "noResults": "未找到结果"
+    },
+    "errors": {
+      "generalError": "发生错误",
+      "networkError": "网络错误",
+      "unauthorized": "未授权访问",
+      "sessionExpired": "会话已过期",
+      "invalidInput": "无效输入",
+      "fileTypeError": "文件类型无效",
+      "fileSizeError": "文件大小超出限制",
+      "uploadError": "上传文件失败",
+      "downloadError": "下载文件失败",
+      "deleteError": "删除项目失败",
+      "queryError": "处理查询失败",
+      "timeoutError": "请求超时"
+    },
+    "dates": {
+      "today": "今天",
+      "yesterday": "昨天",
+      "daysAgo": "{{days}}天前",
+      "justNow": "刚刚",
+      "minutesAgo": "{{minutes}}分钟前",
+      "hoursAgo": "{{hours}}小时前"
+    }
+  }

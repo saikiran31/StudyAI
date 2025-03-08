@@ -1,0 +1,133 @@
+{
+    "common": {
+      "loading": "लोड हो रहा है...",
+      "error": "त्रुटि",
+      "success": "सफल",
+      "close": "बंद करें",
+      "delete": "हटाएं",
+      "cancel": "रद्द करें",
+      "submit": "जमा करें",
+      "next": "अगला",
+      "previous": "पिछला",
+      "upload": "अपलोड करें",
+      "generate": "जनरेट करें",
+      "view": "देखें",
+      "query": "प्रश्न करें"
+    },
+    "auth": {
+      "title": "स्टडीएआई",
+      "subtitle": "आपका व्यक्तिगत लर्निंग असिस्टेंट",
+      "login": "लॉगिन करें",
+      "register": "रजिस्टर करें",
+      "username": "यूजरनेम",
+      "password": "पासवर्ड",
+      "confirmPassword": "पासवर्ड की पुष्टि करें",
+      "loginButton": "लॉगिन करें",
+      "registerButton": "खाता बनाएं",
+      "pleaseWait": "कृपया प्रतीक्षा करें...",
+      "loginSuccess": "लॉगिन सफल",
+      "registerSuccess": "रजिस्ट्रेशन सफल",
+      "passwordMismatch": "पासवर्ड मेल नहीं खाते",
+      "loginError": "लॉगिन विफल",
+      "registerError": "रजिस्ट्रेशन विफल",
+      "networkError": "नेटवर्क त्रुटि हुई"
+    },
+    "sidebar": {
+      "dashboard": "डैशबोर्ड",
+      "documents": "दस्तावेज़",
+      "quizzes": "प्रश्नोत्तरी",
+      "logout": "लॉगआउट"
+    },
+    "dashboard": {
+      "title": "डैशबोर्ड",
+      "stats": {
+        "totalDocuments": "कुल दस्तावेज़",
+        "completedQuizzes": "पूर्ण की गई प्रश्नोत्तरी",
+        "averageScore": "औसत स्कोर"
+      },
+      "charts": {
+        "quizPerformance": "प्रश्नोत्तरी प्रदर्शन",
+        "documentProgress": "दस्तावेज़ प्रगति",
+        "score": "स्कोर (%)",
+        "progress": "प्रगति (%)"
+      },
+      "recentDocuments": "हाल के दस्तावेज़",
+      "recentQuizzes": "हाल की प्रश्नोत्तरी",
+      "activityFeed": "गतिविधि फ़ीड",
+      "noDocuments": "अभी तक कोई दस्तावेज़ अपलोड नहीं किया गया",
+      "noQuizzes": "अभी तक कोई प्रश्नोत्तरी नहीं दी गई",
+      "uploaded": "अपलोड किया गया",
+      "score": "स्कोर"
+    },
+    "documents": {
+      "title": "दस्तावेज़",
+      "uploadDocument": "दस्तावेज़ अपलोड करें",
+      "noDocuments": "कोई दस्तावेज़ अपलोड नहीं किया गया। शुरू करने के लिए एक दस्तावेज़ अपलोड करें।",
+      "generateQuiz": "प्रश्नोत्तरी जनरेट करें",
+      "viewAndQuery": "देखें और प्रश्न करें",
+      "uploadedAt": "अपलोड किया गया",
+      "deleteConfirm": "क्या आप वाकई इस दस्तावेज़ को हटाना चाहते हैं?",
+      "deleteSuccess": "दस्तावेज़ सफलतापूर्वक हटाया गया",
+      "deleteError": "दस्तावेज़ हटाने में विफल",
+      "uploadError": "दस्तावेज़ अपलोड करने में विफल",
+      "queryDocument": "दस्तावेज़ से प्रश्न करें",
+      "askQuestion": "दस्तावेज़ के बारे में कोई प्रश्न पूछें...",
+      "queryPlaceholder": "अपना प्रश्न यहाँ टाइप करें...",
+      "processingQuery": "आपका प्रश्न प्रोसेस किया जा रहा है...",
+      "noAnswer": "दस्तावेज़ में कोई उत्तर नहीं मिला",
+      "queryError": "आपका प्रश्न प्रोसेस करने में विफल"
+    },
+    "quizzes": {
+      "title": "प्रश्नोत्तरी",
+      "noQuizzes": "कोई प्रश्नोत्तरी उपलब्ध नहीं है। अपने दस्तावेज़ों से प्रश्नोत्तरी जनरेट करें।",
+      "startQuiz": "प्रश्नोत्तरी शुरू करें",
+      "reviewQuiz": "प्रश्नोत्तरी समीक्षा करें",
+      "generateQuiz": "प्रश्नोत्तरी जनरेट करें",
+      "quizComplete": "प्रश्नोत्तरी पूर्ण!",
+      "yourScore": "आपका स्कोर",
+      "question": "प्रश्न",
+      "correctAnswer": "सही उत्तर",
+      "yourAnswer": "आपका उत्तर",
+      "explanation": "व्याख्या",
+      "submitQuiz": "प्रश्नोत्तरी जमा करें",
+      "deleteConfirm": "क्या आप वाकई इस प्रश्नोत्तरी को हटाना चाहते हैं?",
+      "deleteSuccess": "प्रश्नोत्तरी सफलतापूर्वक हटाई गई",
+      "deleteError": "प्रश्नोत्तरी हटाने में विफल",
+      "generationError": "प्रश्नोत्तरी जनरेट करने में विफल",
+      "submissionError": "प्रश्नोत्तरी जमा करने में विफल",
+      "timeRemaining": "शेष समय",
+      "questionCount": "प्रश्न {{current}} / {{total}}",
+      "quizInProgress": "प्रश्नोत्तरी जारी है",
+      "confirmSubmit": "क्या आप वाकई प्रश्नोत्तरी जमा करना चाहते हैं?",
+      "notAttempted": "प्रयास नहीं किया"
+    },
+    "pagination": {
+      "previous": "पिछला",
+      "next": "अगला",
+      "page": "पृष्ठ",
+      "showing": "{{total}} में से {{start}} से {{end}} दिखा रहे हैं",
+      "noResults": "कोई परिणाम नहीं मिला"
+    },
+    "errors": {
+      "generalError": "एक त्रुटि हुई",
+      "networkError": "नेटवर्क त्रुटि हुई",
+      "unauthorized": "अनधिकृत पहुंच",
+      "sessionExpired": "सत्र समाप्त हो गया",
+      "invalidInput": "अमान्य इनपुट",
+      "fileTypeError": "अमान्य फ़ाइल प्रकार",
+      "fileSizeError": "फ़ाइल का आकार सीमा से अधिक है",
+      "uploadError": "फ़ाइल अपलोड करने में विफल",
+      "downloadError": "फ़ाइल डाउनलोड करने में विफल",
+      "deleteError": "आइटम हटाने में विफल",
+      "queryError": "प्रश्न प्रोसेस करने में विफल",
+      "timeoutError": "अनुरोध का समय समाप्त हो गया"
+    },
+    "dates": {
+      "today": "आज",
+      "yesterday": "कल",
+      "daysAgo": "{{days}} दिन पहले",
+      "justNow": "अभी-अभी",
+      "minutesAgo": "{{minutes}} मिनट पहले",
+      "hoursAgo": "{{hours}} घंटे पहले"
+    }
+  }
