@@ -30,7 +30,7 @@ app.config.update(
     UPLOAD_FOLDER='uploads',
     MAX_CONTENT_LENGTH=16 * 1024 * 1024
 )
-app.config['GROQ_API_KEY'] = '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'  # Replace with your actual API key
+app.config['GROQ_API_KEY'] = ''  # Replace with your actual API key
 groq_client = Groq(api_key=app.config['GROQ_API_KEY'])
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
